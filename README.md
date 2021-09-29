@@ -2,4 +2,4 @@
 
 ![screenshot](canvas.png)
 
-Text from [Division By Zero](https://bergsans.github.io/division-by-zero/).
+Text from [Division By Zero](https://bergsans.net/division-by-zero/).
